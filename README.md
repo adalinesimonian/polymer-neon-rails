@@ -1,7 +1,6 @@
 # PolymerNeonRails
 
-Polymer Neon elements are a set of utility elements including general-purpose UI elements (such as icons, layout elements,
-and toolbars), as well as non-UI elements providing features like AJAX, signaling and storage.
+Polymer Neon elements (currently only consisting of `neon-animation`) are a set of visual elements that implement animations and transitions.
 
 Polymer-neon-rails gem brings polymer neon web components into your Rails project.
 
