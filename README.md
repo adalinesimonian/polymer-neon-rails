@@ -31,9 +31,9 @@ use [polymer-iron-rails](https://github.com/vsimonian/polymer-iron-rails) for `i
 
 ```ruby
 gem 'polymer-rails'
-gem 'polymer-iron-rails'
-gem 'polymer-paper-rails'
-gem 'polymer-neon-rails'
+gem 'polymer-iron-rails', :git => "git://github.com/vsimonian/polymer-iron-rails.git"
+gem 'polymer-paper-rails', :git => "git://github.com/vsimonian/polymer-paper-rails.git"
+gem 'polymer-neon-rails', :git => "git://github.com/vsimonian/polymer-neon-rails.git"
 ```
 
 After running `bundle install` require needed neon elements into your `application.html` manifest file.
