@@ -39,7 +39,7 @@ gem 'polymer-neon-rails', :git => "git://github.com/vsimonian/polymer-neon-rails
 After running `bundle install` require needed neon elements into your `application.html` manifest file.
 
     //= require polymer/polymer
-    //= require neon-ajax/neon-animation
+    //= require neon-animation/neon-animation
 
 Each component should be required only once. Thus if you've already required component that has dependencies, you don't need
 to explicitly require any of dependencies, otherwise it will raise exception.
