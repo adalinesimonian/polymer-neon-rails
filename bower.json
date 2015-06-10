@@ -1,0 +1,7 @@
+{
+  "name": "polymer-neon-rails",
+  "private": true,
+  "dependencies": {
+    "neon-elements": "PolymerElements/neon-elements#^1.0.0"
+  }
+}
