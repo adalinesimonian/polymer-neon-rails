@@ -1,5 +1,7 @@
 # PolymerNeonRails
 
+**This repository is no longer maintained.** See [polymer-elements-rails](https://github.com/alchapone/polymer-elements-rails) for an alternative.
+
 Polymer Neon elements (currently only consisting of `neon-animation`) are a set of visual elements that implement animations and transitions.
 
 Polymer-neon-rails gem brings polymer neon web components into your Rails project.
